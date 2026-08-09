@@ -1,2 +1,5 @@
 /venv
 /os
+/__pycache__
+/db/__pycache__
+/db/users_data/__pycache__
